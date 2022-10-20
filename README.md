@@ -1,2 +1,2 @@
-# BackEndNodeJS
+# JavaScript
 Plano de Estudo
