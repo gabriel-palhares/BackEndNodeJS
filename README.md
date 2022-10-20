@@ -21,6 +21,7 @@
 - Testes unitários e de integração
 - Criptografia e tokens JWT
 
+**Noções iniciais**
 - MongoDB, alternativa aos bancos relacionais tradicionais
 - Docker, criando e gerenciando containers
 - Agilidade, promovendo transformação ágil
