@@ -1,5 +1,4 @@
-# JavaScript
-Plano de Estudo
+# Plano de Estudo - JavaScript
 
 - Windows prompt
 - Node.js, definição, características, vantagens e possíveis usos
