@@ -6,7 +6,7 @@
 
 **JavaScript para BackEnd**
 - <a href="/JavaScript - tipos, variaveis e funcoes">Tipos, variáveis e funções</a>
-- Arrays
+- <a href="/JS - arrays">Arrays</a>
 - Objetos
 - Algoritmos de ordenação
 - Aprofundando em algoritmos de ordenação e busca
